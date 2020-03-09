@@ -23,3 +23,5 @@
 /Users/Guest/Desktop/MadLibs.Solutions/MadLib/obj/Debug/netcoreapp2.2/MadLib.pdb
 /Users/Guest/Desktop/MadLibs.Solutions/MadLib/obj/Debug/netcoreapp2.2/MadLib.csproj.CopyComplete
 /Users/Guest/Desktop/MadLibs.Solutions/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/Jungle.g.cshtml.cs
+/Users/Guest/Desktop/MadLibs.Solutions/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/Zoo.g.cshtml.cs
+/Users/Guest/Desktop/MadLibs.Solutions/MadLib/obj/Debug/netcoreapp2.2/Razor/Views/Home/Monkey.g.cshtml.cs

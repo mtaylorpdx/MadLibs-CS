@@ -29,5 +29,23 @@ namespace MadLibs.Controllers
       libsVariable.Animal = animal;
       return View("Jungle", libsVariable);
     }
+    [Route("/Zoo")]
+    public ActionResult Zoo(string noun, string verb, string adjective, string animal)
+    {
+      libsVariable.Noun = noun;
+      libsVariable.Verb = verb;
+      libsVariable.Adjective = adjective;
+      libsVariable.Animal = animal;
+      return View("Zoo", libsVariable);
+    }
+    [Route("/Monkey")]
+    public ActionResult Monkey(string noun, string verb, string adjective, string animal)
+    {
+      libsVariable.Noun = noun;
+      libsVariable.Verb = verb;
+      libsVariable.Adjective = adjective;
+      libsVariable.Animal = animal;
+      return View("Monkey", libsVariable);
+    }
   }
 }
